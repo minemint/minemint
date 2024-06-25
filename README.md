@@ -39,10 +39,6 @@
     <img height="27" src="https://img.shields.io/badge/-VS Code-0d182b?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="visualstudiocode"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Figma-0d182b?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="figma"> &nbsp;
 </div>
-<h4 align="center">Musics Now Playing</h4>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=21gwcdr7qqkar6opbc5izlvky&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=21gwcdr7qqkar6opbc5izlvky&redirect=true)" style="text-align:center"/>
-</p>
 <h4 align="center">Musics i played recently</h4>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21gwcdr7qqkar6opbc5izlvky&count=5&unique=1" style="text-align:center"/>
