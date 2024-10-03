@@ -2,7 +2,7 @@
 
 - 🔭 I’m graduated from **King Mongkut's University of Technology North Bangkok** 🎓
 - Major **Mathematics with Computer Science**
-- 🌱 I’m currently learning **Backend** and **Data Analytics** stuff
+- 🌱 I’m currently interesting  **Backend** and **Data Analytics** stuff
 - ⚡ Things I love besides coding:
   * Playing games 🎮
   * Watching movies and anime 📺
