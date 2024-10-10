@@ -28,7 +28,6 @@
  <p>Data analytics tools</p>
     <img height="27" src="https://img.shields.io/badge/-Google Analytics-0d182b?style=for-the-badge&logo=googleanalytics&logoColor=E37400" alt="googleanalytics"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Tableau-0d182b?style=for-the-badge&logo=tableau&logoColor=E97627" alt="tableau"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Tableau-0d182b?style=for-the-badge&logo=tableau&logoColor=E97627" alt="tableau"> &nbsp;
  <p>Database tools</p>
      <img height="27" src="https://img.shields.io/badge/-PostgreSQL-0d182b?style=for-the-badge&logo=Postgresql" alt="postgresql"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-MySQL-0d182b?style=for-the-badge&logo=Mysql" alt="mysql"> &nbsp;
