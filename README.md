@@ -16,13 +16,11 @@
     <img height="27" src="https://img.shields.io/badge/-HTML-0d182b?style=for-the-badge&logo=html5" alt="html5"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-CSS-0d182b?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css"> &nbsp;
  <img height="27" src="https://img.shields.io/badge/-JavaScript-0d182b?style=for-the-badge&logo=javascript" alt="javascript"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Sass-0d182b?style=for-the-badge&logo=Sass&logoColor=CC6699" alt="sass"> &nbsp;
      <img height="27" src="https://img.shields.io/badge/-TypeScript-0d182b?style=for-the-badge&logo=TypeScript" alt="sass"> &nbsp;
  <p>Machine learning</p>
     <img height="27" src="https://img.shields.io/badge/-Tensorflow-0d182b?style=for-the-badge&logo=Tensorflow" alt="tensorflow"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Google Colab-0d182b?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="googlecolab"> &nbsp;
 <p>Frontend frameworks</p>
-     <img height="27" src="https://img.shields.io/badge/-React.js-0d182b?style=for-the-badge&logo=react&logoColor=61DAFBF" alt="react"> &nbsp;
      <img height="27" src="https://img.shields.io/badge/-Angular-0d182b?style=for-the-badge&logo=Angular&logoColor=F24E1E" alt="figma"> &nbsp;
      <img height="27" src="https://img.shields.io/badge/Vue.js-0d182b?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="figma"> &nbsp;
  <p>Data analytics tools</p>
