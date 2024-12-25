@@ -7,7 +7,9 @@
   * Playing games 🎮
   * Watching movies and anime 📺
   * Reading Book 🧑‍🏫
-
+    
+### ⚡ portfolio
+<a  href="https://6767a347060877377c77e752--dancing-jalebi-f21c81.netlify.app/">My portfolio website</a>
 ### 🛠 Languages and Tools
 <div align="">
 <p>language</p>
