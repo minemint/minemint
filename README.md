@@ -19,6 +19,8 @@
     <img height="27" src="https://img.shields.io/badge/-CSS-0d182b?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css"> &nbsp;
  <img height="27" src="https://img.shields.io/badge/-JavaScript-0d182b?style=for-the-badge&logo=javascript" alt="javascript"> &nbsp;
      <img height="27" src="https://img.shields.io/badge/-TypeScript-0d182b?style=for-the-badge&logo=TypeScript" alt="sass"> &nbsp;
+     <img height="27" src="https://custom-icon-badges.demolab.com/badge/C%23-0d182b?.svg?logo=cshrp&logoColor=white" alt="C#"> &nbsp;
+
  <p>Machine learning</p>
     <img height="27" src="https://img.shields.io/badge/-Tensorflow-0d182b?style=for-the-badge&logo=Tensorflow" alt="tensorflow"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Google Colab-0d182b?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="googlecolab"> &nbsp;
